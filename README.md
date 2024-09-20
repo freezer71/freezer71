@@ -76,12 +76,4 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=sqlite" height="30" alt="sqlite logo"  />
 </div>
-
-
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/freezer71/freezer71/output/snake.svg" alt="Snake animation" />
-
 ###
