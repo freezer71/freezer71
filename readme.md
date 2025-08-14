@@ -51,7 +51,7 @@
 ---
 
 ## About Me
-- Currently learning **Advanced Go & Rust**
+- Currently learning **Advanced Go & Typescript**
 - Fullstack Developer passionate about **automation, web & mobile development**
 - Focused on building **efficient and scalable projects**
 - Based in **France**
