@@ -3,7 +3,7 @@
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 <div align="center">
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=freezer71&show_icons=true&theme=tokyonight&count_private=true)
@@ -13,7 +13,7 @@
 
 ---
 
-## 🔥 GitHub Streak
+## GitHub Streak
 <div align="center">
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=freezer71&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
@@ -22,7 +22,7 @@
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 ### **Languages**
 <p align="left">
@@ -41,7 +41,7 @@
 
 ---
 
-## 📈 Activity Graph
+## Activity Graph
 <div align="center">
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=freezer71&theme=tokyo-night)
@@ -50,23 +50,8 @@
 
 ---
 
-## 💡 About Me
-- 🌱 Currently learning **Advanced Go & Rust**
-- 💼 Fullstack Developer passionate about **automation, web & mobile development**
-- 🎯 Focused on building **efficient and scalable projects**
-- 📍 Based in **France**
-
----
-
-## 📫 Connect with Me
-<p align="left">
-  <a href="https://linkedin.com/in/your-link" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin&theme=dark" />
-  </a>
-  <a href="mailto:your.email@example.com">
-    <img src="https://skillicons.dev/icons?i=gmail&theme=dark" />
-  </a>
-  <a href="https://twitter.com/your-handle" target="_blank">
-    <img src="https://skillicons.dev/icons?i=twitter&theme=dark" />
-  </a>
-</p>
+## About Me
+- Currently learning **Advanced Go & Rust**
+- Fullstack Developer passionate about **automation, web & mobile development**
+- Focused on building **efficient and scalable projects**
+- Based in **France**
