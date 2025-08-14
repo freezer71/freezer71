@@ -31,7 +31,7 @@
 
 ### **Frameworks & Libraries**
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,vue,nuxtjs,angular,nodejs,express,django,flask,flutter,tailwind,bootstrap&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,nestjs,nodejs,express,django,flask,flutter,tailwind,bootstrap&theme=dark" />
 </p>
 
 ### **Tools & Platforms**
