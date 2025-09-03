@@ -1,5 +1,5 @@
 <!-- Profile Header -->
-<h1 align="center">Hi 👋! My name is Tharsan and I'm a fullstack developer from France 🇫🇷</h1>
+<h1 align="center">Hi 👋! My name is Tharsan Vishnukumar and I'm a fullstack developer from France 🇫🇷</h1>
 
 ---
 
