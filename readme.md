@@ -55,8 +55,6 @@
 ## Featured Projects
 - 🧪 **[Kouma Labs](https://koumalabs.org/)** — My app laboratory: privacy-first products that give users back control of their data
 - 🥾 **[En Plein Air](https://enpleinair.koumalabs.org/)** — Hiking companion with metre-by-metre guidance, off-trail alerts and offline altitude-corrected weather *(React Native · Expo · Next.js)*
-- 📞 **[Filon](https://filon.koumalabs.org/)** — Free CRM that wakes up dormant leads: follow-ups, call log and a daily call list *(Next.js · React · TypeScript)*
-- 🍜 **[Le 28](https://www.28saveurs.com/)** — Click & Collect website for an Asian-inspired snack bar in Villejuif *(Next.js · React · Tailwind)*
 - ⚙️ **[Denvmon](https://github.com/freezer71/denvmon)** — TypeScript library for declarative environment variable validation with decorators
 
 More on my portfolio → **[tharsan.me](https://www.tharsan.me/)**
