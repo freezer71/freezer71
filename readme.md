@@ -32,17 +32,22 @@
 
 ### **Languages**
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=ts,js,lua,go,css,html,python,php,java,rust,dart&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=ts,js,go,dart,html,css&theme=dark" />
 </p>
 
 ### **Frameworks & Libraries**
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,nestjs,nodejs,express,django,flask,flutter,tailwind,bootstrap&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,remix,nodejs,nestjs,express,flutter,tailwind,prisma&theme=dark" />
+</p>
+
+### **Databases & Backend Services**
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=postgres,mongodb,firebase,redis,mysql,sqlite&theme=dark" />
 </p>
 
 ### **Tools & Platforms**
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=vscode,git,github,docker,figma,blender,linux,postman,redis,mongodb,mysql,sqlite,arduino,qt&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=vscode,git,github,docker,figma,linux,postman,blender,arduino&theme=dark" />
 </p>
 
 ---
