@@ -66,7 +66,10 @@ More on my portfolio → **[tharsan.me](https://www.tharsan.me/)**
 ## Activity Graph
 <div align="center">
 
-![Contribution Graph](https://ghchart.rshah.org/70a5fd/freezer71)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/contributions-dark.svg">
+  <img alt="Contribution Graph" src="assets/contributions-light.svg">
+</picture>
 
 </div>
 
